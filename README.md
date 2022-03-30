@@ -1,6 +1,6 @@
 ## Imagination Beauty
 
-<img src="./results/Final_Result_AIArtAthon.jpg" width="256px"></img>
+<img src="./results/Final_Result_AIArtAthon.png" width="256px"></img>
 
 *friends go on a trip to the forest*
 
@@ -8,7 +8,10 @@
 ### Training
 After we trained the network with 32 layers and 512 pixel image size
 we get:
-https://user-images.githubusercontent.com/19983153/109539633-d671ef80-7ac1-11eb-8d8c-380332d7c868.mp4
+
+https://user-images.githubusercontent.com/76955730/160811029-2785093c-91b3-4fb2-9c51-5b6668357f8f.mp4
+
+
 
 ## Citations
 ```bibtex
